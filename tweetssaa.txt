@@ -1,0 +1,145 @@
+hmhimel20003@gmail.com
+
+Java 1-Day Courses:
+£290 per person per day
+Special offer: Book in March, then £190. Attend in March or later.
+
+Certificate: PCWorkshops Certificate
+Included: Notes, Exercises, Coding samples, Lesson recordings
+Dates: See URL
+Times: 10am - 5pm
+Location: Online, Instructor-led. Classroom on request
+About us: 
+Reviews:
+Reviews:
+Awards: 
+
+
+Course Topics: 
+Java Concurrency and Threads
+Java Database Connection (JDBC)
+Java Exceptions, Files, Streams, Lambdas
+Java Data Structures, Arrays and Collections
+Java Basics
+Java OOP
+Java Spring & JPA
+Java Spring & Hybernate
+Java JUnit Testing
+
+Java 12-Week Bootcamp
+
+Java Taster: Try-before-you-buy
+ 
+natoura@iristechnology.me
+abufodeha@iristechnology.me
+hanafiehn@iristechnology.me
+aldisiy@iristechnology.me
+al-qurashim@iristechnology.me
+
+1000+3500 = 4500 
+
+What Is #JavaFX?
+JavaFX is a set of #graphics and #media #packages that enables #developers to design, create, test, #debug, and deploy rich #client applications that operate consistently on diverse #platforms.
+https://pcworkshopslondon.co.uk/java-12-weeks.html #java #sql #python #software #DeveloperJobs 
+
+What is Concurrency
+Concurrency is the concept of executing two or more tasks at the same time (in parallel). Tasks may include methods (functions), parts of a program, or even other programs. With current computer architectures, support for multiple cores and multiple processors in a single CPU is very common. The two main concurrency concepts are processes and threads.
+
+What is a Thread
+A thread is a thread of execution in a program. The Java Virtual Machine allows an application to have multiple threads of execution running concurrently. Each JVM server can have a maximum of 256 threads to run Java applications.
+
+What is an array in Java
+
+What is a package in Java
+
+What is a project in Java
+
+What is a collection in Java
+Java collection keeps data elements in memory at run time. Java collections provide high-performance and high-quality data structures and algorithms, They can increase the speed of traversing data or finding specific values in a data collection.
+
+What is a stream in Java
+Stream is functional in nature. Operations are performed on a Collection of elements. Operations performed on a stream does not modify it's source. For example, filtering a Stream obtained from a collection produces a new Stream without the filtered elements, rather than removing elements from the source collection. 
+
+What is JDBC in Java
+
+What is a J Connector in Java
+
+What is Spring
+
+What is JPA 
+
+What is Hibernate
+
+What is Garbage Collection in Java
+
+
+What is a List Interface in Java
+List in Java is an interface that allows us to store and access elements in a sequential order, with or without duplicates and null values.
+
+what is a Set in Java
+The set is an unordered collection or list that that allows us to store and access elements. Duplicates are not allowed is referred. The set interface  avoids the insertion of the same elements. SortedSet and TreeSet stores data in sorted order , otherwise
+
+
+
+
+#programming #software #developer #coding #java #javafx #sql #learntocode
+
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="UPCQPM2GLD2DN">
+<table>
+<tr><td><input type="hidden" name="on0" value="Voucher for 1 hour">Voucher for 1 hour</td></tr><tr><td><select name="os0">
+	<option value="SQL 1-Hour">SQL 1-Hour £35.00 GBP</option>
+	<option value="Java 1-Hour">Java 1-Hour £35.00 GBP</option>
+	<option value="Excel  1-Hour">Excel  1-Hour £35.00 GBP</option>
+	<option value="Python 1-Hour">Python 1-Hour £35.00 GBP</option>
+	<option value="PowerBI 1-Hour">PowerBI 1-Hour £35.00 GBP</option>
+	<option value="Tableau 1-Hour">Tableau 1-Hour £35.00 GBP</option>
+	<option value="SSRS 1-Hour">SSRS 1-Hour £35.00 GBP</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="GBP">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG_global.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+
+PostgreSQL, also known as Postgres, is an excellent choice for individuals and SMB's who need a free and open-source relational database that is SQL compliant. 
+
+MySQL is free, open-source software under the GNU General Public License. MySQL was owned by a Swedish company, MySQL AB, and is currently owned by Oracle Corporation.
+
+Microsoft SQL Server, developed by Microsoft, is a relational database management system. SQL Server, as database server, is a software product, and the primarily responsible for storing and retrieving data.
+
+MongoDB is classified as a NoSQL database program, and it uses JSON-like documents with optional schemas. 
+
+
+
+
+
+
+
+Jackson (API)
+ 
+In computing, Jackson is a high-performance JSON processor for Java. Its developers extol the combination of fast, correct, lightweight, and ergonomic attributes of the library.[1][2]
+
+Implementation
+Jackson provides multiple approaches to working with JSON, including using binding annotations on POJO classes for simple use cases.[3][1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

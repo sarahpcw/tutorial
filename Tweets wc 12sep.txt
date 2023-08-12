@@ -1,0 +1,29 @@
+Linked in : 
+monday 12 sep
+Code the Hangman in Java, i's free :) https://www.udemy.com/course/code-the-hangman-game-in-java/?referralCode=1D25807C97ACB9367A24 #java #javafx #sql #developer #Software #SoftwareTesting 
+#java #javafx #developer #sql #software #newbies
+
+Tuesday 13: (pics Java 30days)
+Java Eclipse Shortcuts.
+Learn all about it: https://pcworkshopslondon.co.uk/java-boot-camp-12-week.html
+#java #javafx #developer #sql #software #newbies
+Tuesday 14: 
+Python
+https://www.meetup.com/london-programming-languages-meetup-group/events/288028407?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+#python #developer #sql #software #newbies
+
+Wednesday 15: get pic on pictures , java30
+Concurrency is the ability to run several programs or several parts of a program in parallel. If a time consuming task can be performed asynchronously or in parallel, this improve the throughput and the interactivity of the program.
+learn all about it: https://pcworkshopslondon.co.uk/java-boot-camp-12-week.html
+#java #javafx #developer #sql #software #newbies
+
+thursday 16: get pic on pictures , java30
+A Java lambda expression is an anonymous (that is, unnamed) method that can be created without belonging to any class.
+learn all about it: https://pcworkshopslondon.co.uk/java-boot-camp-12-week.html
+#java #javafx #developer #sql #software #newbies
+
+Friday 17: get pic on pictures , java30
+Eclipse IDE for Java has the essential tools for any Java developer, including a Java IDE. An integrated development environment (IDE) like  IntelliJ or Eclipse, is a software application that provides facilities for software development, e.g. source code editor, build automation tools and a debugger.
+learn all about it: https://pcworkshopslondon.co.uk/java-boot-camp-12-week.html
+#java #javafx #developer #sql #software #newbies
+
