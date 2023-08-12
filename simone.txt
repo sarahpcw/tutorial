@@ -1,0 +1,28 @@
+Test the new laptop, install spider
+Order new laptops
+
+
+
+Hour 1: Variable, data types, if , for and while loops, api with json
+
+Hour 2: lists, tuples, sets
+
+Hour 3: dictionaries, json
+
+Hour 4: Write and read a csv files
+
+Hour 5: Connect to and query a database
+
+Hour 6: Numpy arrays, sets and functions
+
+Day 2: 
+
+Hour1: Dataframe basics, inspect, get information, slicing and subsets, Sample sets, restructing with join, append, zip, merge, concatenate. Excel Files to a dataframe. Csv Files to dataframes.
+
+Hour 3: Query Dataframes, Nuplicates, Null values, 
+
+Hour 4: Machine learning concepts, supervised machine learning
+
+Hour 5: Unsupervised machine learning
+
+Hour 6: Neural networks 
